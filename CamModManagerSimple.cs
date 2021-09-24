@@ -4,7 +4,7 @@ using Amplitude.Mercury.Presentation;
 
 namespace HkFPCameraModSimple
 {
-    [BepInPlugin("humankind.rykolu.HkFPCameraModSimple", "Humankind FPCamera Mod Simple", "1.0.0.0")]
+    [BepInPlugin("humankind.rykolo.HkFPCameraModSimple", "Humankind FPCamera Mod Simple", "1.0.0.1")]
     public class CamModManagerSimple : BaseUnityPlugin
     {
         public bool cameraBool;
